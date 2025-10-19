@@ -1,0 +1,26 @@
+
+# ET(ms): 439409    server:  https://cloud.genepattern.org/gp/
+# Module: GISTIC_2.0 urn:lsid:broad.mit.edu:cancer.software.genepattern.module.analysis:00125:6.15.30
+# Parameters: 
+#    refgene.file = https://datasets.genepattern.org/gpftp/module_support_files/GISTIC/refgene/Human_Hg38.UCSC.add_miR.160920.refgene.mat # file size 	3675481
+#    seg.file = all_samples.gistic.tiled10kb.noY.seg   https://cloud.genepattern.org/gp/users/arrulomr/tmp/run92423593423424590.tmp/seg.file/1/all_samples.gistic.tiled10kb.noY.seg # file size 	156054
+#    markers.file = markers_hg38_10kb_plus_tiled_noY.txt   https://cloud.genepattern.org/gp/users/arrulomr/tmp/run6063831132762138080.tmp/markers.file/2/markers_hg38_10kb_plus_tiled_noY.txt # file size 	9764240
+#    maxspace = 
+#    array.list.file = 
+#    cnv.file = 
+#    gene.gistic = yes
+#    amplifications.threshold = 0.2
+#    deletions.threshold = 0.2
+#    join.segment.size = 
+#    q-value.threshold = 0.25
+#    remove.X = (not set)
+#    cap.val = 1.5
+#    confidence.level = 0.90
+#    run.broad.analysis = yes
+#    focal.length.cutoff = 0.70
+#    max.sample.segs = 
+#    arm.peel = yes
+#    sample.center = (not set)
+#    gene.collapse.method = extreme
+#    output.prefix = 
+#    logdat = autodetect
